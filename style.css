@@ -67,7 +67,7 @@ body {
     height: 100%;
 }
 
-.container {
+form {
     width: 600px;
     padding: 20px;
     margin: 20px;
@@ -150,7 +150,7 @@ body {
         width: 30%;
     }
 
-    .container {
+    form {
         width: 100vw;
     }
 
